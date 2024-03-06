@@ -85,7 +85,7 @@ export const pages: Page[] = [
   //
   { path: "/listing-flights", component: ListingFlightsPage },
   //
-  // { path: "/checkout", component: CheckOutPage },
+  { path: "/checkout", component: CheckOutPage },
   { path: "/book/cars/:carId", component: CarCheckOutPage },
 
   { path: "/pay-done", component: PayPage },

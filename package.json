@@ -1,8 +1,8 @@
 {
-  "name": "chisfis",
+  "name": "booking",
   "version": "1.4.2",
   "private": true,
-  "homepage": ".",
+  "homepage": "http://.",
   "dependencies": {
     "@glidejs/glide": "^3.4.1",
     "@headlessui/react": "^1.6.6",
@@ -18,7 +18,7 @@
     "@types/jest": "^29.0.0",
     "@types/lodash": "^4.14.182",
     "@types/node": "^18.7.14",
-    "@types/react": "^18.0.18",
+    "@types/react": "^18.2.00",
     "@types/react-dom": "^18.0.6",
     "caniuse-lite": "^1.0.30001515",
     "google-map-react": "^2.2.0",
@@ -77,5 +77,9 @@
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.6"
-  }
+  },
+  "description": "![Project Preview](/booking-react-redux.jpeg)",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
 }
